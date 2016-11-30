@@ -12,3 +12,5 @@ branchA
 
 
 edited for rebasing from branchA to master
+
+rebase xxxx
