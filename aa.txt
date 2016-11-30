@@ -1,5 +1,11 @@
 aaa
 
+ HEAD
 
 
 aaaaaaa
+===
+xxxxx
+
+branchA
+>> branchA
