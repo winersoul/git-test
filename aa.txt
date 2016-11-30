@@ -13,4 +13,8 @@ branchA
 
 edited for rebasing from branchA to master
 
+<<< a7d7a0ebc3030aa70be8fe209a4e6c06bb667ff1
 rebase xxxx
+=======
+rebase yyyy
+> rebase confict at branchA
